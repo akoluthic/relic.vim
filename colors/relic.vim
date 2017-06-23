@@ -34,7 +34,7 @@ hi Title guifg=#69819e guibg=#192224 guisp=#192224 gui=bold ctermfg=67 ctermbg=2
 hi Folded guifg=#192224 guibg=#A1A6A8 guisp=#A1A6A8 gui=italic ctermfg=235 ctermbg=248 cterm=NONE
 hi PreCondit guifg=#b55142 guibg=NONE guisp=NONE gui=NONE ctermfg=131 ctermbg=NONE cterm=NONE
 hi Include guifg=#b55142 guibg=NONE guisp=NONE gui=NONE ctermfg=131 ctermbg=NONE cterm=NONE
-hi Float guifg=#A1A6A8 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
+hi Float guifg=#69819e guibg=NONE guisp=NONE gui=NONE ctermfg=67 ctermbg=NONE cterm=NONE
 hi StatusLineNC guifg=#c2b790 guibg=#8c3332 guisp=#8c3332 gui=NONE ctermfg=144 ctermbg=95 cterm=NONE
 hi NonText guifg=#5E6C70 guibg=NONE guisp=NONE gui=italic ctermfg=66 ctermbg=NONE cterm=NONE
 hi DiffText guifg=NONE guibg=#492224 guisp=#492224 gui=NONE ctermfg=NONE ctermbg=52 cterm=NONE
@@ -59,7 +59,7 @@ hi Comment guifg=#676767 guibg=NONE guisp=NONE gui=NONE ctermfg=241 ctermbg=NONE
 hi Character guifg=#b55142 guibg=NONE guisp=NONE gui=NONE ctermfg=131 ctermbg=NONE cterm=NONE
 hi TabLineSel guifg=#e2e4e5 guibg=#69819e guisp=#69819e gui=NONE ctermfg=254 ctermbg=67 cterm=NONE
 hi Number guifg=#69819e guibg=NONE guisp=NONE gui=NONE ctermfg=67 ctermbg=NONE cterm=NONE
-hi Boolean guifg=#A1A6A8 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
+hi Boolean guifg=#69819e guibg=NONE guisp=NONE gui=NONE ctermfg=67 ctermbg=NONE cterm=NONE
 hi Operator guifg=#b55142 guibg=NONE guisp=NONE gui=bold ctermfg=131 ctermbg=NONE cterm=bold
 hi CursorLine guifg=NONE guibg=#222E30 guisp=#222E30 gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
 hi TabLineFill guifg=#8c3332 guibg=#1a1a1a guisp=#1a1a1a gui=bold ctermfg=95 ctermbg=234 cterm=bold
